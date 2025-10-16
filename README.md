@@ -113,5 +113,4 @@ Integrate support for multi-disease classification (e.g., DR, AMD)
 Extend deployment via Hugging Face Spaces or Streamlit Cloud
 
 📝 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
+Owned by Arpit Sharma
